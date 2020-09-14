@@ -1,0 +1,8 @@
+[{"Classification":"yarn-site", "Properties":{"yarn.nodemanager.pmem-check-enabled":"false", "yarn.nodemanager.vmem-check-enabled":"false"}, "Configurations":[]},
+{"Classification":"hive-site", "Properties":{"hive.metastore.client.factory.class":"com.amazonaws.glue.catalog.metastore.AWSGlueDataCatalogHiveClientFactory"}, "Configurations":[]}
+]
+
+
+
+
+

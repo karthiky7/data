@@ -1,0 +1,9 @@
+{"entries": [{"url":"s3://deliverylogs54544322/temp/24c1de6e-e24d-49b0-a120-cc7d732d7a2a/part-00000-6e036004-dec7-4906-9287-fc1c4b05af95-c000.avro", "mandatory":true},
+{"url":"s3://deliverylogs54544322/temp/24c1de6e-e24d-49b0-a120-cc7d732d7a2a/part-00001-6e036004-dec7-4906-9287-fc1c4b05af95-c000.avro", "mandatory":true},
+{"url":"s3://deliverylogs54544322/temp/24c1de6e-e24d-49b0-a120-cc7d732d7a2a/part-00002-6e036004-dec7-4906-9287-fc1c4b05af95-c000.avro", "mandatory":true},
+{"url":"s3://deliverylogs54544322/temp/24c1de6e-e24d-49b0-a120-cc7d732d7a2a/part-00003-6e036004-dec7-4906-9287-fc1c4b05af95-c000.avro", "mandatory":true},
+{"url":"s3://deliverylogs54544322/temp/24c1de6e-e24d-49b0-a120-cc7d732d7a2a/part-00004-6e036004-dec7-4906-9287-fc1c4b05af95-c000.avro", "mandatory":true},
+{"url":"s3://deliverylogs54544322/temp/24c1de6e-e24d-49b0-a120-cc7d732d7a2a/part-00005-6e036004-dec7-4906-9287-fc1c4b05af95-c000.avro", "mandatory":true},
+{"url":"s3://deliverylogs54544322/temp/24c1de6e-e24d-49b0-a120-cc7d732d7a2a/part-00006-6e036004-dec7-4906-9287-fc1c4b05af95-c000.avro", "mandatory":true},
+{"url":"s3://deliverylogs54544322/temp/24c1de6e-e24d-49b0-a120-cc7d732d7a2a/part-00007-6e036004-dec7-4906-9287-fc1c4b05af95-c000.avro", "mandatory":true},
+{"url":"s3://deliverylogs54544322/temp/24c1de6e-e24d-49b0-a120-cc7d732d7a2a/part-00008-6e036004-dec7-4906-9287-fc1c4b05af95-c000.avro", "mandatory":true}]}
